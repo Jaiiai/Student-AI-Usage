@@ -43,7 +43,7 @@ Open the magic - Launch plot ⦁𖥦⦁ᐝ.ipynb in Jupyter
 
 Run the cells - Watch the analysis unfold like a storybook! 📖
 
-Be amazed - Discover cute insights about student-AI interactions
+
 
 
 
